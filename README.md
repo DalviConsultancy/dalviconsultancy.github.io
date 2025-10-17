@@ -1,11 +1,10 @@
 <div align="center">
-
 # Dalvi Consultancy
 
-**Innovate. Automate. Elevate.**
+<b>Innovate. Automate. Elevate.</b>
 
 <p>
-  We are a **digital agency** specializing in crafting high-performance digital solutions. We transform complex challenges into elegant, effective business tools through custom **web applications**, intelligent **AI chatbots**, **mobile apps**, and powerful **workflow automation**.
+  We are a <b>digital agency</b> specializing in crafting high-performance digital solutions. We transform complex challenges into elegant, effective business tools through custom <b>web applications</b>, intelligent <b>AI chatbots</b>, <b>mobile apps</b>, and powerful <b>workflow automation</b>.
 </p>
 
 </div>

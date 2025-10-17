@@ -5,55 +5,27 @@
 **Innovate. Automate. Elevate.**
 
 <p>
-  We are a digital agency specializing in crafting high-performance web solutions, intelligent AI chatbots, mobile applications, and workflow automation. We turn complex problems into elegant, effective digital experiences.
+  We are a **digital agency** specializing in crafting high-performance digital solutions. We transform complex challenges into elegant, effective business tools through custom **web applications**, intelligent **AI chatbots**, **mobile apps**, and powerful **workflow automation**.
 </p>
 
 </div>
 
 ---
 
-### 🚀 Our Core Services
+## 🚀 Our Core Services
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <div align="center">
-        <h3>🌐 Web Development</h3>
-        <p>Building fast, responsive, and scalable web applications using modern technologies like Next.js and React.</p>
-      </div>
-    </td>
-    <td width="25%" valign="top">
-      <div align="center">
-        <h3>🤖 AI Chatbots</h3>
-        <p>Developing smart, conversational AI chatbots to enhance customer engagement and automate tasks.</p>
-      </div>
-    </td>
-    <td width="25%" valign="top">
-      <div align="center">
-        <h3>📱 Mobile Apps</h3>
-        <p>Creating beautiful and functional iOS applications with seamless user experiences.</p>
-      </div>
-    </td>
-    <td width="25%" valign="top">
-      <div align="center">
-        <h3>⚡ n8n Automation</h3>
-        <p>Building powerful workflow automations and integrations using n8n to streamline your business processes.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top">
-      <div align="center">
-        <h3>🔍 SEO & Analytics</h3>
-        <p>Comprehensive SEO optimization and website analysis to improve visibility and performance.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+### Software Development & Digital Experiences
+* **🌐 High-Performance Web Development:** Building fast, responsive, and scalable web applications with modern stacks like **Next.js** and **React**.
+* **📱 Custom Mobile Applications:** Creating beautiful, functional **iOS** applications with a focus on seamless user experience.
+* **🤖 Intelligent AI Chatbots:** Developing smart, conversational AI solutions to enhance **customer engagement** and automate key business tasks.
+
+### Automation & Business Strategy
+* **⚡ Workflow Automation (n8n):** Implementing powerful **workflow automations** and system integrations using **n8n** to drastically streamline your business processes.
+* **📈 SEO & Performance Analytics:** Comprehensive website analysis and **SEO optimization** strategies to improve your digital visibility and drive growth.
 
 ---
 
-### 💻 Our Tech Stack
+## 💻 Our Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -62,22 +34,21 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Genkit-F8A036?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Genkit"/>
+  <img src="https://img.shields.io/badge/Genkit-F8A036?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Genkit - AI Framework"/>
   <br/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sites"/>
-  <img src="https://img.shields.io/badge/n8n-00C389?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/n8n-00C389?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n - Workflow Automation"/>
 </div>
 
 ---
 
-### ✨ Featured Projects
+## ✨ Featured Projects
 
 <table width="100%">
   <tr>
@@ -100,7 +71,7 @@
         <img src="https://raw.githubusercontent.com/DalviConsultancy/dalviconsultancy/main/public/images/dalvi-group.png" alt="Dalvi Group Project" width="300"/>
       </a>
       <br />
-      <b>Dalvi Group - Business Solutions</b>
+      <b>Dalvi Group - Corporate Solutions</b>
     </td>
   </tr>
 </table>
@@ -113,10 +84,10 @@
 
 ---
 
-### 📫 Get in Touch
+## 📫 Let's Connect
 
 <div align="center">
-  <p>Ready to start a project or have a question? Let's talk!</p>
+  <p>Ready to discuss a project, automate a process, or simply have a question? We're here to help.</p>
   
   <a href="mailto:soham.dalviconsultancy@gmail.com">
     <img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us"/>

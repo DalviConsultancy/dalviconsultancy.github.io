@@ -5,7 +5,7 @@
 **Innovate. Automate. Elevate.**
 
 <p>
-  We are a digital agency specializing in crafting high-performance web solutions, intelligent AI chatbots, mobile applications, and robust APIs. We turn complex problems into elegant, effective digital experiences.
+  We are a digital agency specializing in crafting high-performance web solutions, intelligent AI chatbots, mobile applications, and workflow automation. We turn complex problems into elegant, effective digital experiences.
 </p>
 
 </div>
@@ -18,38 +18,33 @@
   <tr>
     <td width="25%" valign="top">
       <div align="center">
-        <h3>Web Development</h3>
-        <img src="https://raw.githubusercontent.com/DalviConsultancy/dalviconsultancy/main/public/images/web-dev-icon.png" width="64" alt="Web Development Icon"/>
+        <h3>🌐 Web Development</h3>
         <p>Building fast, responsive, and scalable web applications using modern technologies like Next.js and React.</p>
       </div>
     </td>
     <td width="25%" valign="top">
       <div align="center">
-        <h3>AI Chatbots</h3>
-        <img src="https://raw.githubusercontent.com/DalviConsultancy/dalviconsultancy/main/public/images/chatbot-icon.png" width="64" alt="AI Chatbot Icon"/>
+        <h3>🤖 AI Chatbots</h3>
         <p>Developing smart, conversational AI chatbots to enhance customer engagement and automate tasks.</p>
       </div>
     </td>
     <td width="25%" valign="top">
       <div align="center">
-        <h3>Mobile Apps</h3>
-        <img src="https://raw.githubusercontent.com/DalviConsultancy/dalviconsultancy/main/public/images/mobile-app-icon.png" width="64" alt="Mobile App Icon"/>
+        <h3>📱 Mobile Apps</h3>
         <p>Creating beautiful and functional iOS applications with seamless user experiences.</p>
       </div>
     </td>
     <td width="25%" valign="top">
       <div align="center">
-        <h3>API Development</h3>
-        <img src="https://raw.githubusercontent.com/DalviConsultancy/dalviconsultancy/main/public/images/api-icon.png" width="64" alt="API Development Icon"/>
-        <p>Building robust and scalable APIs to power your applications and integrations.</p>
+        <h3>⚡ n8n Automation</h3>
+        <p>Building powerful workflow automations and integrations using n8n to streamline your business processes.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="25%" valign="top">
       <div align="center">
-        <h3>SEO & Analytics</h3>
-        <img src="https://raw.githubusercontent.com/DalviConsultancy/dalviconsultancy/main/public/images/seo-icon.png" width="64" alt="SEO Icon"/>
+        <h3>🔍 SEO & Analytics</h3>
         <p>Comprehensive SEO optimization and website analysis to improve visibility and performance.</p>
       </div>
     </td>
@@ -77,7 +72,7 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sites"/>
-  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+  <img src="https://img.shields.io/badge/n8n-00C389?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </div>
 
 ---
@@ -112,7 +107,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://dalviconsultancy.github.io/">
-    <img src="https://img.shields.io/badge/View_All_Projects-Website-blue?style=for-the-badge" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/View_All_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </div>
 
@@ -123,11 +118,7 @@
 <div align="center">
   <p>Ready to start a project or have a question? Let's talk!</p>
   
-  <a href="https://dalviconsultancy.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit_Our_Site-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Our Website"/>
-  </a>
-  
   <a href="mailto:soham.dalviconsultancy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Us-blue?style=for-the-badge&logo=gmail" alt="Email Us"/>
+    <img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us"/>
   </a>
 </div>
